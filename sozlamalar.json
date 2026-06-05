@@ -1,0 +1,61 @@
+{
+    "versiya": "1.0.0",
+    "dastur": {
+        "nomi": "Tasvirdan Obyektlarni Tanib Olish Tizimi",
+        "oyna_kenglik": 1200,
+        "oyna_balandlik": 720
+    },
+    "aniqlash": {
+        "faol_strategiya": "haar",
+        "haar": {
+            "min_qoshni": 5,
+            "olcham_koeffitsienti": 1.1,
+            "minimal_olcham": [
+                30,
+                30
+            ]
+        },
+        "dnn": {
+            "minimal_aniqlik": 0.50,
+            "olcham": [
+                300,
+                300
+            ],
+            "orta_qiymat": [
+                127.5,
+                127.5,
+                127.5
+            ],
+            "koeffitsient": 0.007843
+        }
+    },
+    "rasm": {
+        "maksimal_kenglik": 1280,
+        "maksimal_balandlik": 720,
+        "saqlash_sifati": 95,
+        "formatlar": [
+            "png",
+            "jpg",
+            "jpeg",
+            "bmp",
+            "tiff"
+        ]
+    },
+    "ramka": {
+        "qalinlik": 2,
+        "shrift_olchami": 0.6,
+        "label_fon": true
+    },
+    "papkalar": {
+        "kiruvchi": "media/kiruvchi",
+        "chiquvchi": "media/chiquvchi",
+        "modellar": "loyiha/model_boshqaruv/modellar",
+        "jurnal": "jurnal"
+    },
+    "jurnal": {
+        "daraja": "INFO",
+        "fayl": "jurnal/loyiha.log",
+        "maksimal_hajm_mb": 5,
+        "zaxira_soni": 3
+    }
+}

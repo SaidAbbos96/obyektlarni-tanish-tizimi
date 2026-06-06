@@ -62,6 +62,7 @@ loyiha/model_boshqaruv/modellar/*.caffemodel
 # Hujjatlar papkasi (loyiha uchun shart emas)
 # ============================================================
 docx/
+docs/
 
 # ============================================================
 # Quyidagilar GitHUBga yuklanadi:
